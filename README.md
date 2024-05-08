@@ -7,6 +7,11 @@ Hi, I’m @ji24077.(ji sung Han)
 📫 How to reach me: you can email me at yhs24077@gmail.com
 
 I'm planning to make my github to Upload/Build my Projects.
+about me:
+I really like system programming, so i like to programming on C and linux.
+But i am interested in a lots of feilds, not just limited to CS and Statistics. (now i am interested in to Robotics)
+Since i study abroad and been into new enviroment a lot, i am very good at adjustment in any place and can easily be friends with new people.
+
 <!---
 ji24077/ji24077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
