@@ -1,5 +1,5 @@
 Hi, I’m @ji24077.(ji sung Han)
-👀 I'm intereested in many Areas such as: Computer networks, Ai, and Software development to solve real world problem.
+👀 I'm interested in many Areas such as: Computer networks, Ai, and Software development to solve real world problem.
 
 🌱 I’m currently learning computer science and statistics at the University of Toronto.
 
