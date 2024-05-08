@@ -4,12 +4,21 @@ Hi, I’m @ji24077.(ji sung Han)
 🌱 I’m currently learning computer science and statistics at the University of Toronto.
 
 💞️ I'm currently learning Operating System, Applied Deep learning, Software Engineering and Time series analysis in Summer at University of Toronto.
+
+
+
 📫 How to reach me: you can email me at yhs24077@gmail.com
 
+
+
 I'm planning to make my github to Upload/Build my Projects.
+
+
 about me:
 I really like system programming, so i like to programming on C and linux.
+
 But i am interested in a lots of feilds, not just limited to CS and Statistics. (now i am interested in to Robotics)
+
 Since i study abroad and been into new enviroment a lot, i am very good at adjustment in any place and can easily be friends with new people.
 
 <!---
