@@ -2,7 +2,7 @@ Hi, I’m @ji24077 (Jisung Han)!
 
 👀 I'm passionate about various fields, including Computer Networks, Artificial Intelligence, and Software Development, all aimed at solving real-world problems.
 
-🌱 I’m currently pursuing a dual major in Computer Science and Statistics at the University of Toronto.
+🌱 I’m currently Studying Computer Science and Statistics at the University of Toronto.
 
 💞️ This summer, I'm diving deep into Operating Systems, Applied Deep Learning, Software Engineering, and Time Series Analysis at the University of Toronto.
 
