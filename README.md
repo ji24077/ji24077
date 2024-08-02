@@ -1,4 +1,4 @@
-Hi, I’m @ji24077 (Jisung Han)! 
+Hi, I’m @ji24077 (Ji sung Han)! 
 
 👀 I'm passionate about various fields, including Computer Networks, Artificial Intelligence, and Software Development, all aimed at solving real-world problems.
 
