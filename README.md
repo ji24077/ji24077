@@ -4,7 +4,7 @@ Hi, I’m @ji24077 (Ji sung Han)!
 
 🌱 I’m currently Studying Computer Science and Statistics at the University of Toronto.
 
-💞️ This Fall, I'm diving deep into Graduate Advanced Machine Learning, Computational Finance, and Big Data analysis at the University of Toronto.
+💞️ This Winter, I'm diving deep into Graduate Advanced Machine Learning, Computational Finance, and Big Data analysis at the University of Toronto.
 
 📫 Reach out to me via email at yhs24077@gmail.com.
 
