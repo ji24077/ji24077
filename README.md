@@ -2,7 +2,7 @@ Hi, I’m @ji24077 (Ji sung Han)!
 
 👀 I'm passionate about various fields, including Computer Networks, Artificial Intelligence, and Software Development, all aimed at solving real-world problems.
 
-🌱 I’m currently Studying Computer Science and Statistics at the University of Toronto.
+🌱 I’m currently Studying Computer Science and Data Science at the University of Toronto.
 
 💞️ This Winter, I'm diving deep into Graduate Advanced Machine Learning, Computational Finance, and Big Data analysis at the University of Toronto.
 
