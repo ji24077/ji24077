@@ -33,16 +33,6 @@ Having **studied abroad and adapted to various environments**, I thrive in **dyn
 
 ---
 
-## 📌 My Interests & Focus Areas
-- **Artificial Intelligence & Deep Learning**  
-- **System Programming & Operating Systems**  
-- **Computational Finance & Quantitative Modeling**  
-- **Big Data & Scalable Systems**  
-- **Cybersecurity & Cloud Computing**  
-- **Robotics & Automation**  
-
----
-
 ## 🚀 Let's Connect!  
 📬 **Email:** [yhs24077@gmail.com](mailto:yhs24077@gmail.com)  
 🔗 **GitHub:** [github.com/ji24077](https://github.com/ji24077)  
