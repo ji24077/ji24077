@@ -4,7 +4,7 @@
 
 🌱 I’m currently studying **Computer Science and Data Science (Quantitative Finance)** at the University of Toronto.
 
-💡 This summer, I am working as a Data Science & AI Developer Intern at Colliers!
+💡 This summer, I am working as a Data Science & AI Engineer Intern at Colliers!
 
 📫 Reach out to me via **email** at [yhs24077@gmail.com](mailto:yhs24077@gmail.com).
 
