@@ -33,9 +33,7 @@ Having **studied abroad and adapted to various environments**, I thrive in **dyn
 
 ---
 
-## 🚀 Let's Connect!  
-📬 **Email:** [yhs24077@gmail.com](mailto:yhs24077@gmail.com)  
-🔗 **GitHub:** [github.com/ji24077](https://github.com/ji24077)  
+## 🚀 Let's Connect!    
 💼 **LinkedIn:** [linkedin.com/in/ji-sung-han-200074304/](https://www.linkedin.com/in/ji-sung-han-200074304/)  
 🌍 **Personal Website:** [jisunghan.netlify.app](https://jisunghan.netlify.app/)  
 
