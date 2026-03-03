@@ -4,7 +4,7 @@
 
 🌱 I’m currently studying **Computer Science and Data Science (Quantitative Finance)** at the University of Toronto.
 
-💡 This Fall, I am working as Data & ML Engineer Intern at Tesla!
+💡 This Spring, I am working as Systems Software Engineer Intern at NVIDIA! (Previously Worked at Tesla)
 
 📫 Reach out to me via **email** at [yhs24077@gmail.com](mailto:yhs24077@gmail.com).
 
