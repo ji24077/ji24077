@@ -2,7 +2,7 @@
 
 👀 I'm passionate about various fields, including **Computer Networks, Artificial Intelligence, and Software Development**, all aimed at solving real-world problems.
 
-🌱 I’m currently studying **Computer Science and Data Science (Quantitative Finance)** at the University of Toronto.
+🌱 I’m currently studying **Computer Science and Statistics (Quantitative Finance)** at the University of Toronto.
 
 💡 This Spring, I am working as Systems Software Engineer Intern at NVIDIA! (Previously Worked at Tesla)
 
