@@ -6,7 +6,7 @@
 
 💡 This Spring, I am working as Systems Software Engineer Intern at NVIDIA! (Previously Worked at Tesla)
 
-📫 Reach out to me via **email** at [yhs24077@gmail.com](mailto:yhs24077@gmail.com).
+📫 Reach out to me via **email** at [jishan.han@mail.utoronto.ca](mailto:jishan.han@mail.utoronto.ca).
 
 🚀 I'm excited to launch my **GitHub portfolio** soon to showcase and build innovative projects. Stay tuned!
 
