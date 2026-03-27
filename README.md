@@ -34,7 +34,7 @@ Having **studied abroad and adapted to various environments**, I thrive in **dyn
 ---
 
 ## 🚀 Let's Connect!    
-💼 **LinkedIn:** [[https://www.linkedin.com/in/ji24077/](https://www.linkedin.com/in/ji24077/)/]
+💼 **LinkedIn:** [https://www.linkedin.com/in/ji24077/](https://www.linkedin.com/in/ji24077/)/
 
 
 🌍 **Personal Website:** [jisunghan.netlify.app](https://jisunghan.netlify.app/)  
