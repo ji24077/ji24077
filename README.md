@@ -23,7 +23,7 @@ My passion lies in **bridging the gap between AI and software engineering**, str
 Driven by endless curiosity, I explore **diverse subjects beyond my core focus**, believing that **learning is a lifelong journey**. This interdisciplinary approach has shaped my **unique perspective on problem-solving and innovation**, allowing me to tackle challenges creatively.  
 
 🔧 **System Programming Enthusiast**  
-I have a **strong affinity for system programming**, especially with **C and Linux**. The low-level intricacies and **fine-grained control** it provides fascinate me, reinforcing my appreciation for efficiency and optimization.  
+I have a **strong affinity for system programming**, especially with **C++ and Linux**. The low-level intricacies and **fine-grained control** it provides fascinate me, reinforcing my appreciation for efficiency and optimization.  
 
 🤖 **Exploring Robotics & Emerging Technologies**  
 While my foundation is in **Computer Science and Statistics**, my curiosity extends into **Robotics and Automation**. I’m actively exploring this field and eager to integrate AI-driven solutions into **real-world hardware applications**.  
