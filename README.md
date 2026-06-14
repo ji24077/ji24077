@@ -25,8 +25,8 @@ Driven by endless curiosity, I explore **diverse subjects beyond my core focus**
 🔧 **System Programming Enthusiast**  
 I have a **strong affinity for system programming**, especially with **C++ and Linux**. The low-level intricacies and **fine-grained control** it provides fascinate me, reinforcing my appreciation for efficiency and optimization.  
 
-🤖 **Exploring Robotics & Emerging Technologies**  
-While my foundation is in **Computer Science and Statistics**, my curiosity extends into **Robotics and Automation**. I’m actively exploring this field and eager to integrate AI-driven solutions into **real-world hardware applications**.  
+🤖 Exploring Robotics, AI Systems & GPU Computing
+While my foundation is in Computer Science and Statistics, my curiosity extends into Robotics, GPU Computing, and AI Infrastructure. I’m actively exploring how large-scale AI models can be trained, served, and optimized to power real-world robotics and hardware applications.
 
 🌍 **Adaptable & Globally Minded**  
 Having **studied abroad and adapted to various environments**, I thrive in **dynamic settings** and excel in making new connections. I strongly believe that **technology is a global language**, bringing people together to innovate and solve pressing problems.  
