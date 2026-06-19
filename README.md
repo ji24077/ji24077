@@ -4,7 +4,10 @@
 
 🌱 I’m currently studying **Computer Science and Statistics (Quantitative Finance)** at the University of Toronto.
 
-💡 This Spring, I am working as Systems Software Engineer Intern at NVIDIA! (Previously Worked at Tesla)
+💡 This spring, I’m working as a Systems Software Engineer Intern at NVIDIA, following a previous internship at Tesla.
+
+I work on post-training and inference systems for an 8B multimodal reasoning model, while designing and building research-informed evaluation systems for MCP-based performance-analysis agents.
+
 
 📫 Reach out to me via **email** at [jishan.han@mail.utoronto.ca](mailto:jishan.han@mail.utoronto.ca).
 
