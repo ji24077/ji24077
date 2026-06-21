@@ -8,6 +8,7 @@
 
 I work on post-training and inference systems for an 8B multimodal reasoning model, while designing and building research-informed evaluation systems for MCP-based performance-analysis agents.
 
+I am also exploring and contributing to vLLM through an open upstream performance PR focused on inference performance and scheduler efficiency.
 
 📫 Reach out to me via **email** at [jishan.han@mail.utoronto.ca](mailto:jishan.han@mail.utoronto.ca).
 
