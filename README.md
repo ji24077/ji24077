@@ -1,6 +1,6 @@
 # Hi, I’m @ji24077 (Ji Sung Han)! 👋
 
-👀 I'm passionate about various fields, including **Computer Networks, Artificial Intelligence, and Software Development**, all aimed at solving real-world problems.
+👀 I'm passionate about various fields, including **AI Systems, Machine Learning, Robotics, and Software Engineering**, all aimed at solving real-world problems.
 
 🌱 I’m currently studying **Computer Science and Statistics (Quantitative Finance)** at the University of Toronto.
 
