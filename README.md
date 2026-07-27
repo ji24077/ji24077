@@ -6,7 +6,7 @@
 
 💡 This spring, I’m working as a Systems Software Engineer Intern at NVIDIA, following a previous internship at Tesla.
 
-I work on post-training and inference systems for an 8B multimodal reasoning model, while designing and building research-informed evaluation systems for MCP-based performance-analysis agents.
+I’m working on multimodal systems and data-centric post-training for Cosmos models, along with error-injection synthetic data and evaluation systems for computer-use agents that navigate and control user interfaces.
 
 I am also exploring and contributing to vLLM through an open upstream performance PR focused on inference performance and scheduler efficiency.
 
