@@ -6,8 +6,7 @@
 
 💡 This spring, I’m working as a Systems Software Engineer Intern at NVIDIA, following a previous internship at Tesla.
 
-I’m working on data-centric post-training and multimodal systems for Cosmos models, along with error-injection synthetic data and evaluation systems for MCP-based computer-use agents that perform UI navigation and use APIs, logs, and codebase context to diagnose and recover from failures.
-
+I’m working on data-centric post-training for Cosmos3, including weak-reference paired learning, multimodal SFT, and evaluation. I also develop error-injection synthetic-data and evaluation systems for MCP-based computer-use agents.
 
 I am also exploring and contributing to vLLM through an open upstream performance PR focused on inference performance and scheduler efficiency.
 
