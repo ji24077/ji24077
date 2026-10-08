@@ -4,11 +4,15 @@
 
 🌱 I’m currently studying **Computer Science and Statistics (Quantitative Finance)** at the University of Toronto.
 
-💡 This spring, I’m working as a Systems Software Engineer Intern at NVIDIA, following a previous internship at Tesla.
+💡 I'm a Deep Learning Software Engineer Intern at NVIDIA, previously at Tesla.
 
-I’m working on data-centric post-training for Cosmos3, including weak-reference paired learning, multimodal SFT, and evaluation. I also develop error-injection synthetic-data and evaluation systems for MCP-based computer-use agents.
+Right now I optimizing inference for Qwen3-VL-235B MoE on Vera Rubin GPUs. The work spans the full stack, from vLLM serving down to FlashInfer attention kernels and CUDA/CuTe DSL. I profile with Nsight, benchmark with MLPerf on Slurm, and have an open upstream vLLM PR on scheduler efficiency and inference performance.
 
-I am also exploring and contributing to vLLM through an open upstream performance PR focused on inference performance and scheduler efficiency.
+and I'm building MLPerf evaluation infrastructure for a computer-use agent. I'm porting the RL pipeline from Docker to Enroot/Slurm with parity validation, and integrating model endpoints through a screenshot-action-grader loop.
+
+also I worked on post-training for Cosmos3 world-model VLMs, using weak-reference paired learning and multimodal SFT to improve visual reasoning, and evaluating the gains.
+
+I currently contribute to two teams in parallel.
 
 📫 Reach out to me via **email** at [jishan.han@mail.utoronto.ca](mailto:jishan.han@mail.utoronto.ca).
 
