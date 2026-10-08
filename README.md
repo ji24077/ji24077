@@ -6,13 +6,13 @@
 
 💡 I'm a Deep Learning Software Engineer Intern at NVIDIA, previously at Tesla.
 
-Right now I optimizing inference for Qwen3-VL-235B MoE on Vera Rubin GPUs. The work spans the full stack, from vLLM serving down to FlashInfer attention kernels and CUDA/CuTe DSL. I profile with Nsight, benchmark with MLPerf on Slurm, and have an open upstream vLLM PR on scheduler efficiency and inference performance.
+Right now I optimize inference for Qwen3-VL-235B MoE on Vera Rubin GPUs. The work spans the full stack, from vLLM serving down to FlashInfer attention kernels and CUDA/CuTe DSL. I profile with Nsight, benchmark with MLPerf on Slurm, and have an open upstream vLLM PR on scheduler efficiency and inference performance.
 
-and I'm building MLPerf evaluation infrastructure for a computer-use agent. I'm porting the RL pipeline from Docker to Enroot/Slurm with parity validation, and integrating model endpoints through a screenshot-action-grader loop.
+In parallel, I'm building MLPerf evaluation infrastructure for a computer-use agent. I'm porting the RL pipeline from Docker to Enroot/Slurm with parity validation, and integrating model endpoints through a screenshot-action-grader loop.
 
-also I worked on post-training for Cosmos3 world-model VLMs, using weak-reference paired learning and multimodal SFT to improve visual reasoning, and evaluating the gains.
+Before this, I worked on post-training and evaluation of Cosmos3 world-model VLMs to improve weak-reference visual reasoning.
 
-I currently contribute to two teams in parallel.
+I currently contribute to two teams in parallel. 
 
 📫 Reach out to me via **email** at [jishan.han@mail.utoronto.ca](mailto:jishan.han@mail.utoronto.ca).
 
