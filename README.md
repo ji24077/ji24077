@@ -6,7 +6,7 @@
 
 💡 I'm a Deep Learning Software Engineer Intern at NVIDIA, previously at Tesla.
 
-Right now I optimize inference for Qwen3-VL-235B MoE on Vera Rubin GPUs. The work spans the full stack, from vLLM serving down to FlashInfer attention kernels and CUDA/CuTe DSL. I profile with Nsight, benchmark with MLPerf on Slurm, and have an open upstream vLLM PR on scheduler efficiency and inference performance.
+Right now I optimize inference for Qwen3-VL-235B MoE on Vera Rubin GPUs. The work spans the full stack, from vLLM serving down to FlashInfer attention kernels and CUDA/CuTe DSL. I profile with Nsight, benchmark with MLPerf on Slurm.
 
 In parallel, I'm building MLPerf evaluation infrastructure for a computer-use agent. I'm porting the RL pipeline from Docker to Enroot/Slurm with parity validation, and integrating model endpoints through a screenshot-action-grader loop.
 
