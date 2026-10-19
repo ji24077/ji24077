@@ -10,7 +10,7 @@ Right now I optimize inference for Qwen3-VL-235B MoE on Vera Rubin GPUs. The wor
 
 In parallel, I'm building MLPerf evaluation infrastructure for a computer-use agent. I'm porting the RL pipeline from Docker to Enroot/Slurm with parity validation, and integrating model endpoints through a screenshot-action-grader loop.
 
-I currently contribute to two teams in parallel. On the VLM post-training side, I work on post-training and evaluation of Cosmos3 world-model VLMs to improve weak-reference visual reasoning.
+I currently contribute to two teams in parallel. On the VLM post-training side, I work on Cosmos3-based VLMs. I build the post-training data pipelines and evaluation infrastructure, and work on improving weak-reference visual reasoning: training a model to compare a video against a reference that may be misaligned or come from a different scene.
 
 📫 Reach out to me via **email** at [jishan.han@mail.utoronto.ca](mailto:jishan.han@mail.utoronto.ca).
 
