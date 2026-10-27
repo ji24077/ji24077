@@ -4,13 +4,13 @@
 
 🌱 I’m currently studying **Computer Science and Statistics (Quantitative Finance)** at the University of Toronto.
 
-💡 I'm a Deep Learning Software Engineer Intern at NVIDIA, previously at Tesla.
+💡 I'm a Deep Learning Software Engineer Intern at NVIDIA, previously at Tesla. I currently contribute across **two teams**, working on both **inference systems** and **VLMs for real-world products**.
 
-Right now, I optimize inference for **Qwen3-VL-235B MoE on Vera Rubin GPUs**. My work spans the inference stack, from **vLLM serving and FlashInfer autotuning down to CuTe DSL kernels**. I use **Nsight Systems** for profiling and **MLPerf/Slurm** for performance benchmarking.
+On the inference side, I optimized **Qwen3-VL-235B MoE inference on Vera Rubin GPUs**, working across the stack from **vLLM serving to GPU kernels**. My work includes optimizing **MoE and attention kernels** and running **multi-GPU MLPerf benchmarks on Slurm-based infrastructure** to profile and improve end-to-end inference performance.
 
-In parallel, I’m building **MLPerf evaluation infrastructure for a computer-use agent**, porting an RL pipeline from Docker to Enroot/Slurm with parity validation and integrating model endpoints through a screenshot-action-grader loop.
+On the VLM side, I work on **multimodal model**, including **Cosmos3-Reason**. My main focus has been developing a **5-stage visual-reference curriculum** to study and improve how models reason from imperfect visual references, progressively weakening spatial and temporal correspondence between reference and target videos to improve **reference-conditioned visual reasoning**..
+I also work on **model research infrastructure**, improving the correctness and performance of large-scale VLM training and evaluation pipelines.
 
-I also contribute to **world-model post-training and evaluation**, working with Cosmos3 and multimodal video data. My work includes designing post-training curricula, improving training-signal correctness, optimizing distributed SFT, and building evaluation infrastructure for **reference-conditioned visual reasoning** training models to reason from visual references even when they are temporally misaligned or come from different scenes.
 📫 Reach out to me via **email** at [jishan.han@mail.utoronto.ca](mailto:jishan.han@mail.utoronto.ca).
 
 🚀 I'm excited to launch my **GitHub portfolio** soon to showcase and build innovative projects. Stay tuned!
