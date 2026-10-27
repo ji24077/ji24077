@@ -9,6 +9,7 @@
 On the inference side, I optimize **Qwen3-VL-235B MoE inference on Vera Rubin GPUs**, working across the stack from **vLLM serving to GPU kernels**. My work includes optimizing **MoE and attention kernels** and running **multi-GPU MLPerf benchmarks on Slurm-based infrastructure** to profile and improve end-to-end inference performance.
 
 On the VLM side, I work on **multimodal model post-training & evals**, including **Cosmos3-Reason**. My main focus has been developing a **5-stage visual-reference curriculum** to improve **reference-conditioned visual reasoning** under progressively weaker spatial and temporal alignment. I also work on **model research infrastructure**, improving training-signal correctness across **Omniverse and real-world data** and the performance of large-scale VLM training and evaluation pipelines.
+
 📫 Reach out to me via **email** at [jishan.han@mail.utoronto.ca](mailto:jishan.han@mail.utoronto.ca).
 
 🚀 I'm excited to launch my **GitHub portfolio** soon to showcase and build innovative projects. Stay tuned!
